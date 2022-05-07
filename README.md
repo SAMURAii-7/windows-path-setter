@@ -2,4 +2,4 @@
 Batch Script to add new path to user variables in Windows
 
 # How to
-Change ```shC:\example``` to the path to be added to user variables
+Change ```C:\example``` to the path to be added to user variables
